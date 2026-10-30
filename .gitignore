@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Authentication data
+users.json
+
+# Logs
+logs/
+
+# Database
+database/
+
+# Development backups
+*.v1
+*.v2
+*.v3
+*.save
+
+# Virtual environments
+venv/
+.venv/
+
+# User creation script containing initial passwords
+create_users.py
